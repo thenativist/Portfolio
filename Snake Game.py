@@ -43,7 +43,6 @@ velocityY = 0
 game_over = False
 score = 0
 
-
 # game loop
 def change_direction(e): #e = events
     # print(e) # (prints key events)
